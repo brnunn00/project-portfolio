@@ -1,0 +1,155 @@
+
+html, body{
+background-color: rgb(170, 175, 179);
+}
+.nav-link {
+	color: #fff !important;
+	padding: 0px 15px !important;
+	font-size: 16px;
+    letter-spacing: 2px;
+    background: black;
+}
+.navbar{
+    margin-bottom:30px;
+}
+.navbar li a.active {
+	color: #b1ece7 !important;
+}
+.about{
+    margin-top: 150px;
+}
+.nav-background {
+	background: #000 !important;
+	padding: 5px 15px;
+	box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+	margin-top: 0;
+}
+.fa-bars{
+    background: transparent !important;
+    color: white !important;
+}
+.nav-background a {
+	color: #fff !important;
+}
+.navbar-toggler{
+    background:none !important;
+    border-color: #fff !important;
+    color: #fff;
+}
+.mainPan{
+    min-height: 360px;
+    padding: 0 15px 0 15px;  }
+    .row.primary{
+        margin-bottom: 15px;
+    }
+    .myPic{
+        /* height: auto;
+        width: 100%; */
+        max-width: 100%;
+            margin-top: 20px;
+        align-self: center;
+        text-align: center;
+    }
+    #headerSep{
+        border: 0;
+      clear:both;
+      display:block;
+      width: 96%;               
+      background-color:lightgray;
+      height: 2px;
+    }
+    .row.primary{
+        margin-bottom: 15px;
+    }
+    .img-responsive{
+        margin: 5px;    
+        max-width: 100%;
+        min-width: 100%;    
+        height: auto;
+        position: relative;
+    }
+
+    .pageCont{
+        min-height: 77vh;
+      }
+      .panel-main{
+        background-color:white;
+        
+        }
+        
+        
+        .panel-content{
+            padding: 15px;
+            margin-bottom: 15px;
+           
+        }
+
+        .sectionHeader{
+            display: block;
+            width: 100%;
+            margin: 10px 10px 20px 10px;
+        }
+.about{
+background-color: rgb(79, 100, 112);
+}
+
+/* .projects{
+    margin-top:50px;
+} */
+.card{
+    margin-right: 10px !important;
+    margin-bottom: 10px !important;
+    height: 550px;
+    padding: 15px;
+   
+}
+.card-img-top{
+    height: 50%;
+    max-width: 100%
+}
+.card-body{
+    position: absolute;
+    bottom: 0;
+    height: 50%
+}
+
+a.primary{
+    color: navy;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+section{
+    margin-bottom: 50px;
+}
+p{
+    margin-left: 15px;
+}
+
+
+.contact{
+    background-color: rgb(79, 100, 112);
+}
+
+.contactCont{
+    display: inline-block;
+}
+
+.btn{
+    margin-bottom: 7px;
+}
+
+i{
+    
+    padding: 20px;
+    font-size: 40px;
+    color: #fff;
+    transition: all ease 0.5s;
+}
+.fa{
+    font-size: 30px !important;
+
+}
+.media{
+    margin-bottom: 25px;
+}
